@@ -59,4 +59,16 @@
 [click_here](https://platform.openai.com/docs/guides/fine-tuning)
 
 
+### pricing for GPT foundation models 
+
+[click_here](https://openai.com/api/pricing/)
+
+### GPT model versions for fine tuning details 
+
+<img src="dt.png">
+
+
+### data format understanding for training gpt foundation model 
+
+<img src="dt1.png">
 
