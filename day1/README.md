@@ -14,4 +14,13 @@
 
 <img src="ml2.png">
 
+## Understanding few points about ANN 
+
+<img src="ann1.png">
+
+### predictive and Generative 
+
+<img src="ann2.png">
+
+
 
