@@ -57,3 +57,12 @@
 }
 ```
 
+### data for GPT model 
+
+<img src="dd1.png">
+
+### how to generate or use data 
+
+<img src="dd2.png">
+
+
