@@ -25,3 +25,11 @@
 
 <img src="token1.png">
 
+### openai account types 
+
+<img src="acc1.png">
+
+### available gpt models for fine tuning 
+
+<img src="model.png">
+
