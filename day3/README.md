@@ -33,3 +33,8 @@
 
 <img src="model.png">
 
+### model training 
+
+<img src="md1.png">
+
+
