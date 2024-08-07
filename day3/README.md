@@ -1,1 +1,9 @@
-# walmart-finetune_5thaug2024
+## Revision and understaing 
+
+<img src="rev.png">
+
+
+### giving too much data example 
+
+<img src="ex1.png">
+
