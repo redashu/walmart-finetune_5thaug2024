@@ -37,4 +37,14 @@
 
 <img src="md1.png">
 
+## fine tune FM process 
+
+<img src="fmp.png">
+
+
+### more info abut fine gpt openai -- libs
+
+<img src="libs1.png">
+
+
 
