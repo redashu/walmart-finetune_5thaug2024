@@ -10,3 +10,7 @@
 
 <img src="rag2.png">
 
+### understnading gradient vs gpt hosted server
+
+<img src="gr2.png">
+
